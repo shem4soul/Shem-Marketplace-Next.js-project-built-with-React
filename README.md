@@ -23,7 +23,6 @@ This is a modern e-commerce application built using **Next.js**, **hono**, **hon
 4. [Setting Up Supabase Triggers](#setting-up-supabase-triggers)  
 5. [Submitting a Pull Request (PR)](#submitting-a-pull-request-pr)  
 6. [To-Do](#to-do)  
-7. [Contributing](#contributing)
 
 ---
 
