@@ -181,14 +181,7 @@ Here are some upcoming features and tasks for the project:
 
 
 
----
 
-Contributing
-
-I welcome contributions from the community! Please follow the Submitting a PR guidelines. If you have any questions, feel free to open an issue.
-
-
----
 
 License
 
